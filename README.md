@@ -1,58 +1,60 @@
 # Challenge1
-Análisis de Ventas de Tiendas
+
+**Análisis de Ventas de Tiendas**
 
 Este proyecto analiza las ventas de cuatro tiendas diferentes para ver cuál está funcionando mejor y en cuál conviene que el Sr. Juan enfoque sus esfuerzos.
 
-Qué hay en este proyecto
+***Qué hay en este proyecto?***
 
-El DataFrame
+*El DataFrame*
 Contiene toda la info de ventas con columnas como:
 
-Producto y Categoría del Producto
+- Producto y Categoría del Producto
 
-Precio y Costo de envío
+- Precio y Costo de envío
 
-Fecha de Compra y Vendedor
+- Fecha de Compra y Vendedor
 
-Lugar de Compra y calificación del cliente
+- Lugar de Compra y calificación del cliente
 
-Coordenadas lat y lon para ver dónde se vendió cada producto
+- Coordenadas lat y lon para ver dónde se vendió cada producto
 
-Lo que analizamos
+***Lo que analizamos***
 
-Ingresos Totales: cuánto ganó cada tienda en total.
+- Ingresos Totales: cuánto ganó cada tienda en total.
 
-Categorías más populares: qué tipos de productos se venden más.
+- Categorías más populares: qué tipos de productos se venden más.
 
-Calificación promedio de clientes: qué tan contentos están los compradores.
+- Calificación promedio de clientes: qué tan contentos están los compradores.
 
-Productos más y menos vendidos: qué se vende como pan caliente y qué no.
+- Productos más y menos vendidos: qué se vende como pan caliente y qué no.
 
-Costo de envío promedio: cuánto cuesta, en promedio, mandar los productos.
+- Costo de envío promedio: cuánto cuesta, en promedio, mandar los productos.
 
-Gráficos que generamos
+***Gráficos que generamos***
 
-Torta mostrando la distribución de categorías por tienda.
+- Torta mostrando la distribución de categorías por tienda.
 
-Barras comparando los ingresos totales de cada tienda.
+- Barras comparando los ingresos totales de cada tienda.
 
-Barras mostrando el costo de envío promedio.
+- Barras mostrando el costo de envío promedio.
 
-(Extra) Gráfico de dispersión con latitud y longitud para ver dónde se concentran las ventas.
+- (Extra) Gráfico de dispersión con latitud y longitud para ver dónde se concentran las ventas.
 
-Informe final
+***Informe final***
+
 Redactamos un resumen fácil de leer donde:
 
-Comparamos ingresos y popularidad de productos.
+- Comparamos ingresos y popularidad de productos.
 
-Vemos las calificaciones y costos de envío.
+- Vemos las calificaciones y costos de envío.
 
-Recomendamos cuál tienda conviene más, basándonos en todo lo analizado.
+- Recomendamos cuál tienda conviene más, basándonos en todo lo analizado.
 
-Cómo usarlo
+***Cómo usarlo?***
 
-Abrí el notebook en Jupyter o Colab.
+1. Abrí el notebook en Jupyter o Colab.
 
-Corré todas las celdas para ver los resultados y los gráficos.
+2. Corré todas las celdas para ver los resultados y los gráficos.
 
-Revisá el informe final para ver cuál tienda se recomienda vender y por qué.
+3. Revisá el informe final para ver cuál tienda se recomienda vender y por qué.
